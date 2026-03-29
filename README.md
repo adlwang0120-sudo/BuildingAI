@@ -1,8 +1,7 @@
 <!-- This is the markdown template for the final project of the Building AI course, 
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
-# Project Title
-Mushroom Species Identifier
+# Mushroom Species Identifier
 ## Summary
 This project is an AI-based mushroom species identifier that helps users recognize different kinds of mushrooms from photos. 
 ## Background
